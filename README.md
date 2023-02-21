@@ -1,11 +1,8 @@
-# Responsive Portfolio Website Sarthak
-### Responsive Portfolio Website Sarthak
+# React Code
+### Furthering my skills in both React and Javascript
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Have designed a React Info Page and a personal Business Card
+- Currently in progress of a personal productivity web application
 
-![preview img](/assets/img/preview.png)
-![preview img](/assets/img/preview2.png)
+![preview img](/first-project/src/reactCode.png)
+![preview img](/business-card/src/businessCard.png)
